@@ -1,0 +1,7 @@
+The data is in a zip file. The zip file contains a 'train' and a 'val' folder with two CSV files for the two folders.
+These folders are in turn divided into subfolders where each subfolder represents a video of a particular gesture.
+Each subfolder, i.e. a video, contains 30 frames (or images).
+Note that all images in a particular video subfolder have the same dimensions but different videos may have different dimensions.
+Specifically, videos have two types of dimensions - either 360x360 or 120x160 
+
+https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
