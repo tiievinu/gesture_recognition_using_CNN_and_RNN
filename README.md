@@ -8,4 +8,4 @@ Left swipe: 'Jump' backwards 10 seconds
 Right swipe: 'Jump' forward 10 seconds  
 Stop: Pause the movie
  
-Each video is a sequence of 30 frames (or images). In the next couple of lectures, our subject matter expert Snehansu will walk you through the structure of the dataset.
+Each video is a sequence of 30 frames (or images).
